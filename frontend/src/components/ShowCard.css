@@ -1,0 +1,33 @@
+.show-card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 15px;
+    margin-bottom: 15px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: #f9f9f9;
+}
+
+.show-card h3 {
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-size: 1.2em;
+}
+
+.show-card h3 a {
+    text-decoration: none;
+    color: #337ab7;
+}
+
+.show-card h3 a:hover {
+    text-decoration: underline;
+}
+
+.show-card p {
+    margin-bottom: 8px;
+    font-size: 0.9em;
+    color: #555;
+}
+
+.show-card p:last-child {
+    margin-bottom: 0;
+}

@@ -1,0 +1,45 @@
+.show-details {
+    padding: 20px;
+    background-color: #f8f8f8;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    margin-top: 20px;
+}
+
+.show-details h2 {
+    margin-top: 0;
+    margin-bottom: 15px;
+    color: #333;
+}
+
+.show-details .summary {
+    margin-bottom: 20px;
+    font-size: 0.95em;
+    color: #666;
+    line-height: 1.6;
+}
+
+.show-details .show-info {
+    margin-bottom: 20px;
+    padding-left: 20px;
+}
+
+.show-details .show-info p {
+    margin-bottom: 8px;
+    font-size: 0.9em;
+    color: #555;
+}
+
+.show-details .show-info strong {
+    font-weight: bold;
+    color: #444;
+}
+
+.show-details a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.show-details a:hover {
+    text-decoration: underline;
+}
